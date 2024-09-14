@@ -12,6 +12,7 @@ public class JenkinsKubernetesApplication {
 		System.out.println("Running after first commit");
 		System.out.println("Running after second commit");
 		System.out.println("Running after third commit");
+		System.out.println("Running after fourth commit");
 	}
 
 }
