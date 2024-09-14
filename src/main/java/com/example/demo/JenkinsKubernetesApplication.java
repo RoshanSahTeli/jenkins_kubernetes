@@ -10,6 +10,7 @@ public class JenkinsKubernetesApplication {
 		SpringApplication.run(JenkinsKubernetesApplication.class, args);
 		System.out.println("Hello i am running");
 		System.out.println("Running after first commit");
+		System.out.println("Running after second commit");
 	}
 
 }
